@@ -1,0 +1,42 @@
+export const timelineElements = [
+    {
+        key: 1,
+        title: "Bachelor of Human Life and Environment",
+        place: "Nara Women's University (Nara, Japan)",
+        date: "2012 - 2016",
+        icon: 'school',
+        description: "Architectural design/history/structural analysis",
+    },
+    {
+        key: 2,
+        title: "Architectural Engineer",
+        place: "Nagano Prefecture (Nagano, Japan)",
+        date: "2016 - 2022",
+        icon: 'work',
+        description: "problem-solving/project management/creativity",
+    },
+    {
+        key: 3,
+        title: "Bachelor of Engineering",
+        place: "Centria University of Applied Sciences (Kokkola, Finland)",
+        date: "2022 - current",
+        icon: 'school',
+        description: "programming skills/software development/data communication",
+    },
+    {
+        key: 4,
+        title: "Japanese Teacher",
+        place: "Kokkola Seudun Opisto (Kokkola, Finland)",
+        date: "2022 - current",
+        icon: 'school',
+        description: "communication skills/prioritize student satisfaction",
+    },
+    {
+        key: 5,
+        title: "Growth Hacking Intern in Opeton",
+        place: "Herizon (Remote)",
+        date: "2022 (Jun-Aug)",
+        icon: 'school',
+        description: "digital marketing tools (Google Ads)",
+    },
+]
